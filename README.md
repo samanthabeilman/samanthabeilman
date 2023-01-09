@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @samanthabeilman
 - 👀 I’m interested in game design and improving at clean code!
-- 🌱 I’m currently learning C and Web Design.
-- 💞️ I’m looking to collaborate on ... (not sure yet!)
+- 🌱 I’m currently learning Intro to Software Engineering, Mobile Design and 2D Game Development.
+- 💐 I am comfortable with C, Web Design and Python.
+- 💞️ I’m looking to work on Web Design projects!
 - 📫 How to reach me samanthabeilman@carleton.cmail.ca
 
 <!---
