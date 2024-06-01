@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @samanthabeilman
-
+- I am currently working on some Godot projects, using GDExtension!
+- Some of my favourite games are: Bioshock 2, Inscryption, and Stardew Valley.  💞️
 
 <!---
 samanthabeilman/samanthabeilman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
