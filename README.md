@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samanthabeilman
-- I am the developer of the GDExtension code for Carleton's COMP 3501, Foundations of Game Programming and Computer Graphics. 🥰🎮
+- I developed the GDExtension code for Carleton's COMP 3501, Foundations of Game Programming and Computer Graphics. 🥰🎮
 - Some of my favourite games are: Bioshock 2, Inscryption, and Stardew Valley.  💞️
 
 <!---
